@@ -1,0 +1,57 @@
+about:
+  description: OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
+  license: ISC
+  homepage: 
+  head: 8693ebe
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-04T04:44:45Z
+timeline:
+  created: 2023-04-17
+  lastCommit: 2023-11-08
+  lastRelease: ?
+popularity:
+  star: 141
+  watcher: 8
+  fork: 7
+  release: 0
+  contributor: 4
+  pullRequest: 2
+  issue: 9
+language:
+  C: 205887
+  Makefile: 3966
+totalLine: 209853
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 3
+    commit: 0
