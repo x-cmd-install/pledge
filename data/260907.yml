@@ -5,13 +5,13 @@ about:
   head: 8693ebe
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T06:00:48Z
+  collectedAt: 2026-09-07T18:38:24Z
 timeline:
   created: 2023-04-17
   lastCommit: 2023-11-08
   lastRelease: 
 popularity:
-  star: 141
+  star: 142
   watcher: 8
   fork: 7
   release: 0
@@ -80,7 +80,7 @@ total:
   commit: 23
 ---
 path: /home/runner/.x-repo/github.com/jart/pledge
-collectedAt: 2026-09-07T06:00:49Z
+collectedAt: 2026-09-07T18:38:25Z
 loc:
   C:
     code: 3197
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:00:50+00:00
+  collectedAt: 2026-09-07T18:38:26+00:00
   platform:
     darwin/arm64:
       name:  null
