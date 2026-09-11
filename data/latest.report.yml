@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:12:51Z
+  collectedAt: 2026-09-11T18:32:15Z
 timeline:
   created: 2023-04-17
   lastCommit: 2023-11-08
@@ -84,7 +84,7 @@ total:
   commit: 23
 ---
 path: /home/runner/.x-repo/github.com/jart/pledge
-collectedAt: 2026-09-11T06:12:51Z
+collectedAt: 2026-09-11T18:32:19Z
 loc:
   C:
     code: 3197
