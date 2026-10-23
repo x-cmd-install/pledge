@@ -1,0 +1,10 @@
+- repo: slackbuilds
+  srcname: system/pledge
+  visiblename: system/pledge
+  version: 20230908_8693ebe
+  origversion: null
+  status: unique
+  maintainers:
+    - urchlay@slackware.uk
+  categories:
+    - system
